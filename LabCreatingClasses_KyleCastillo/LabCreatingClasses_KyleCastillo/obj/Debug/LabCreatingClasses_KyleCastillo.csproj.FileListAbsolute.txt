@@ -1,0 +1,8 @@
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\LabCreatingClasses\LabCreatingClasses_KyleCastillo\LabCreatingClasses_KyleCastillo\obj\Debug\LabCreatingClasses_KyleCastillo.csproj.AssemblyReference.cache
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\LabCreatingClasses\LabCreatingClasses_KyleCastillo\LabCreatingClasses_KyleCastillo\obj\Debug\LabCreatingClasses_KyleCastillo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\LabCreatingClasses\LabCreatingClasses_KyleCastillo\LabCreatingClasses_KyleCastillo\obj\Debug\LabCreatingClasses_KyleCastillo.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\LabCreatingClasses\LabCreatingClasses_KyleCastillo\LabCreatingClasses_KyleCastillo\bin\Debug\LabCreatingClasses_KyleCastillo.exe.config
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\LabCreatingClasses\LabCreatingClasses_KyleCastillo\LabCreatingClasses_KyleCastillo\bin\Debug\LabCreatingClasses_KyleCastillo.exe
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\LabCreatingClasses\LabCreatingClasses_KyleCastillo\LabCreatingClasses_KyleCastillo\bin\Debug\LabCreatingClasses_KyleCastillo.pdb
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\LabCreatingClasses\LabCreatingClasses_KyleCastillo\LabCreatingClasses_KyleCastillo\obj\Debug\LabCreatingClasses_KyleCastillo.exe
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\LabCreatingClasses\LabCreatingClasses_KyleCastillo\LabCreatingClasses_KyleCastillo\obj\Debug\LabCreatingClasses_KyleCastillo.pdb
